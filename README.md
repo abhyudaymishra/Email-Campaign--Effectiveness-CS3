@@ -27,7 +27,7 @@ Summaryemail.pdf- Includes the Summary about the project.
 
 📈 **Results**
 
-Random Forest Tuned Model gave the best results and the patterns that could be captured by the model without overfitting was captured achieving a R^2 of 0.45 which helps in allocation of resources and proper planning for the company's growth.
+* *Based on the evaluation results, we can conclude that the XGBoost model with SMOTE data and feature selection performed the best, with an accuracy of 0.80 on the test data. This model had higher precision, recall, and F1-scores for all classes compared to other models. The XGBoost model with random undersampled data also performed reasonably well with an accuracy of 0.57, but the performance was much lower for the minority classes.*
 
 **📜 Credits**
 
