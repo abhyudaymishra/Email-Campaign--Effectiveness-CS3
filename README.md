@@ -30,10 +30,8 @@ Summaryemail.pdf- Includes the Summary about the project.
 
 Random Forest Tuned Model gave the best results and the patterns that could be captured by the model without overfitting was captured achieving a R^2 of 0.45 which helps in allocation of resources and proper planning for the company's growth.
 
-**📜 Credits**
+****📜 Credits************
 
 **Abhyuday Mishra
-******
 Organic Growth| Data Analyst| Business Analyst
-
 linkedin
