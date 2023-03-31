@@ -16,6 +16,7 @@ Summaryemail.pdf- Includes the Summary about the project.
 
 📈 Exploratory Data Analysis
 Despite having a very modest number of emails, campaign 1's emails had a far higher open rate than the rest.only 1% of emails from email campaign type 2 are acknowledged, while the majority of emails are marked as ignored.
+![download (1)](https://user-images.githubusercontent.com/122104510/229045106-2f85ae12-70b1-4137-a667-577d1464796f.png)
 
 
 we created distribution plots for Total Links, Total Images, and Total Past Communications. From the current analysis, it can be observed that the distribution of Word Count is similar to that of Total Past Communications and follows a normal distribution. However, the distributions for Total Links and Total Images are positively skewed, indicating the presence of extreme values or outliers in the data.
