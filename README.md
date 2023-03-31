@@ -1,5 +1,4 @@
-**Problem Statement and Project Description
-**
+**Problem Statement and Project Description**
 
 *Most of the small to medium business owners are making effective use of Gmail-based Email marketing Strategies for offline targeting of converting their prospective customers into leads so that they stay with them in business. The main objective is to create a machine learning model to characterize the mail and track the mail that is ignored; read; acknowledged by the reader. Data columns are self-explanatory.*
 
@@ -30,8 +29,10 @@ Summaryemail.pdf- Includes the Summary about the project.
 
 Random Forest Tuned Model gave the best results and the patterns that could be captured by the model without overfitting was captured achieving a R^2 of 0.45 which helps in allocation of resources and proper planning for the company's growth.
 
-****📜 Credits************
+**📜 Credits**
 
-**Abhyuday Mishra
+**Abhyuday Mishra**
+
 Organic Growth| Data Analyst| Business Analyst
+
 linkedin
