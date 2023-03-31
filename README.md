@@ -35,4 +35,9 @@ Random Forest Tuned Model gave the best results and the patterns that could be c
 
 Organic Growth| Data Analyst| Business Analyst
 
-linkedin
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhyuday-mishra)
+
+
