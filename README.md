@@ -20,6 +20,8 @@ Despite having a very modest number of emails, campaign 1's emails had a far hig
 
 
 we created distribution plots for Total Links, Total Images, and Total Past Communications. From the current analysis, it can be observed that the distribution of Word Count is similar to that of Total Past Communications and follows a normal distribution. However, the distributions for Total Links and Total Images are positively skewed, indicating the presence of extreme values or outliers in the data.
+![download](https://user-images.githubusercontent.com/122104510/229045278-4fbbd040-f132-436c-85aa-f627e2c00f15.png)
+
 
 📈 Results
 
