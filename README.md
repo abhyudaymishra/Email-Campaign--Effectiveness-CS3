@@ -1,5 +1,5 @@
+# Email-Campaign--Effectiveness-CS3
 
-**Email-Campaign--Effectiveness- CS-3**
 
 ![1-Signatures-blog](https://user-images.githubusercontent.com/122104510/229057222-1ad282d6-ef99-4a9b-85a4-093e84729ca6.gif)
 
@@ -48,6 +48,4 @@ Organic Growth| Data Analyst| Business Analyst
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhyuday-mishra)
 
-## 🛠 Skills
-Python, SQL, Machine Learning
 
