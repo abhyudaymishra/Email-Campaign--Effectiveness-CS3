@@ -1,3 +1,11 @@
+Email-Campaign-Effectiveness- CS-3
+
+
+![1-Signatures-blog](https://user-images.githubusercontent.com/122104510/229057222-1ad282d6-ef99-4a9b-85a4-093e84729ca6.gif)
+
+
+
+
 **Problem Statement and Project Description**
 
 *Most of the small to medium business owners are making effective use of Gmail-based Email marketing Strategies for offline targeting of converting their prospective customers into leads so that they stay with them in business. The main objective is to create a machine learning model to characterize the mail and track the mail that is ignored; read; acknowledged by the reader. Data columns are self-explanatory.*
